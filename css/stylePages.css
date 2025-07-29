@@ -184,7 +184,7 @@ header{
 .hero-content{
     width: 100vw;
     height: 35vw;
-    background-image: url("/images/accueil/hero2.jpeg");
+    background-image: url("../images/accueil/hero2.jpeg");
     padding-top: 40px;
     padding-bottom: 20px;
     background-position: bottom;
